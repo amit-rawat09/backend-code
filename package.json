@@ -1,0 +1,12 @@
+{
+  "name": "backend-code",
+  "version": "1.0.0",
+  "description": "node package manager",
+  "license": "ISC",
+  "author": "amit rawat",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
